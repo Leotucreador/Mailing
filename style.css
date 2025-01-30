@@ -2,3 +2,96 @@
     font-size: 13px; font-family:'Times New Roman', Times, serif;
     color: #FE543B;
 }
+.padre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 30rem;
+}
+.novedad{
+    display: flex;
+    justify-content: center;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F5F5F5;
+
+}
+
+.main-table {
+    width: 500px;
+}
+
+.title {
+    color: red;
+    margin-top: 2rem;
+}
+
+.info-text {
+    font-size: 21px;
+    text-align: center;
+}
+
+.subtitle {
+    color: red;
+    font-size: 20px;
+}
+
+.changes-table {
+    width: 500px;
+}
+
+.description {
+    font-size: 21px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.link-table {
+    width: 700px;
+}
+
+.terms-text {
+    text-align: center;
+    font-size: 24px;
+}
+
+.button-table {
+    width: 600px;
+}
+
+.center {
+    text-align: center;
+}
+
+.terms-button {
+    font-size: 30px;
+    background-color: #1FD8B5;
+    text-decoration: none;
+    border-radius: 100px;
+    color: white;
+    padding: 10px 20px;
+}
+
+.info-small {
+    font-size: 20px;
+}
+
+.footer-table {
+    text-align: center;
+}
+
+.footer-link {
+    color: #FE543B;
+    text-decoration: none;
+}
+
+.derechos {
+    text-align: center;
+}
+.encontrar{
+    width: 700px;
+}
